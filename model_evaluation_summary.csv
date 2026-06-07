@@ -1,0 +1,10 @@
+metric_group,metric,value
+Prediction Metrics,RMSE,516.4983006269177
+Prediction Metrics,MAE,115.70318060866681
+Prediction Metrics,R2 Score,0.892961518188748
+Prediction Metrics,Utilization RMSE,0.03648761506936299
+Pricing Optimization Metrics,Revenue Gain %,5.267314109612808
+Pricing Optimization Metrics,Net Utilization Stabilization %,1.5749910382615535
+Pricing Optimization Metrics,Off-Peak Uplift %,18.9265294053083
+System Quality Metrics,Average Waiting Time Reduction %,38.6096131617815
+System Quality Metrics,Pricing Efficiency Score,14.804835569948192
